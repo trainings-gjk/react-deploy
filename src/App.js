@@ -5,8 +5,10 @@ function App() {
     <div className="App">
       <h1>Projekti MERN</h1>
       <h2>Gjakove</h2>
+      <h2>UPDATE</h2>
     </div>
   );
+
 }
 
 export default App;
